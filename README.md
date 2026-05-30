@@ -2,8 +2,10 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Aus Shakir Ahmed Evan</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShakirEvan3070&label=Profile%20views&color=0e75b6&style=flat" alt="shakirevan3070" /> </p> 
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShakirEvan3070&label=Profile%20views&color=0e75b6&style=flat" alt="shakirevan3070" /> </p>  -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShakirEvan3070&label=Visitors&color=brightgreen&style=for-the-badge" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🌱 I’m currently learning **React**
