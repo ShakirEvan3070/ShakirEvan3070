@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Developer**
+- 👯 I’m looking to collaborate with **Developer**
 
 - 💬 Ask me about **React**
 
