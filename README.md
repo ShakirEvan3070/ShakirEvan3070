@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aus Shakir Ahmed Evan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Aus Shakir Ahmed Evan</h1>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShakirEvan3070&label=Profile%20views&color=0e75b6&style=flat" alt="shakirevan3070" /> </p> 
 
